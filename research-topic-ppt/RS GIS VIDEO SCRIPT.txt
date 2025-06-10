@@ -1,0 +1,113 @@
+RS GIS VIDEO SCRIPT    FA2 ACTIVITY      DURATION: MAX 3 MINUTES
+
+TOPIC: WILDFIRE IMPACT ASSESSMENT AND RISK MAPPING IN LOS ANGELES: A GIS BASED APPROACH
+
+THEME: GOOGLE MEET VIDEO
+
+
+SECTIONS:
+
+INTRODUCTION - PRITHVIRAJ
+MOTIVATION - SUMEDH
+LITERATURE REVIEW - SAKSHI
+FINDINGS - MANASI
+SLIDE 5 - GAURAV
+SLIDE 6 - SUMEDH
+SLIDE 7- PRITHVIRAJ
+PROPOSED SOLUTIONS - GAURAV
+CONCLUSION - SAKSHI
+FUTURE SCOPE - MANASI
+
+
+
+SCRIPT:
+
+
+INTRODUCTION: SLIDE 0 - PRITHVIRAJ
+We are the members of Group 6 — [mention all names here] — and today we will be presenting our project for the subject Remote Sensing and GIS. Our topic is "Wildfire Impact Assessment and Risk Mapping in Los Angeles using a GIS-Based Approach." In this project, we are focusing on how wildfires affect the Los Angeles area — including the land, people, and property. We are using GIS tools to study where wildfires are more likely to happen and how serious their impact can be. As part of our work, we are reading and analyzing different research papers related to wildfires and GIS. By doing this, we aim to understand what methods have already been used, what problems still exist, and how we can suggest better or simpler solutions using GIS. Our goal is to create maps that show high-risk areas and suggest ways to reduce wildfire damage. We hope our project can help in better planning and quicker response during such disasters.
+
+
+MOTIVATION: SLIDE 1 - SUMEDH
+In Jan 2025, a huge blaze in Los Angeles showed key gaps in aid and safety steps. The delay in help led to loss of life and heavy damage. These same issues come up each time such a blaze hits, with no solid plan in place to stop them. To stop such loss in the days ahead, we picked this theme. Los Angeles often sees these events, so it is vital to look into its sky patterns, land shape, and aid tools to give new ideas. We will use a GIS-based path, using satellite maps and info from official GIS sites — a match with the theme we study.
+
+We plan to look at:
+Heat maps to see how flames move
+Highway maps to check how people escape
+Climatic Conditions maps 
+Land  Maps data of Los Angeles
+Study how safety teams and tools are placed in Los Angeles County
+
+This study will help us find weak zones and give new ways to face such events with less loss.
+
+
+
+LITERATURE REVIEW: SLIDE 3 - SAKSHI
+We studied several major wildfires that occurred in Los Angeles, including the Palisades Fire (2021) and the Woolsey Fire (2018), to better understand how different weather conditions affect the spread of wildfires. From our research, we found that wildfires tend to spread much faster in dry and windy weather. These conditions make it easier for the fire to grow and move quickly over large areas. We also discovered that the number of wildfires has gone up a lot since the 2012 census—about 130 times more on average—which shows that wildfires are becoming more frequent and dangerous. Another important part of our study was looking at the escape routes people use during wildfires, especially the highways. We noticed that fires often block these roads, which makes it hard for people to leave safely during an emergency. To prepare better, we used scientific data to find areas that are most likely to have wildfires and marked them as “red zones.” These are high-risk areas that need special attention. Finally, we studied where fire-fighting equipment and teams are located, especially around these red zones. We found that it's very important to place more fire-fighting resources close to these high-risk areas so that help can arrive quickly and prevent the fire from spreading further.
+
+
+FINDINGS: SLIDE 4 - MANASI
+
+- Wildfires mostly happen during late summer and fall when the weather is dry and windy.
+
+- These weather conditions help fires spread faster and farther.
+
+- The number of wildfires has increased a lot in recent years.
+
+- Los Angeles has the kind of climate (hot, dry, windy) that makes wildfires more likely.
+
+- During wildfires, traffic jams make it hard for people to escape safely.
+
+- There aren’t enough proper evacuation routes, which makes things worse.
+
+- Firefighting tools and teams are not available in all high-risk areas—they’re unevenly spread.
+
+- Many fires are caused by people, either by accidents or on purpose.
+
+- Assistance from the government is often slow during wildfires.
+
+All these problems show that we need better planning, more resources, and faster help to deal with wildfires.
+
+
+
+SLIDE 5 - GAURAV
+
+During past wildfires in Los Angeles, many challenges were seen while moving people to safety. In one case, the order to evacuate came 40 minutes late, which made traffic worse. Sadly, over 10 people lost their lives due to confusion and no clear guidance. Around 200,000 people had to leave their homes quickly, which caused panic and many problems in managing the situation. In Altadena, many people got no warning or very late alerts, which delayed their chance to escape. Also, the help teams and tools were sent out late, blocking the escape paths and leaving people without help or direction.
+
+
+
+SLIDE 6 - SUMEDH
+
+Blazes in LA have gone up a lot in the last decade. The most damage came in 2020. The  level of damage each year keeps going up. Big spikes took place in 2017, 2018, 2020, and 2021. This data shows that heat, desiccated spells, and the changing climate are the main cause in making things escalate. To help keep people safe, we need latest tools like maps, AI, and tech that helps with quick escape plans.
+
+
+
+SLIDE 7 - PRITHVIRAJ
+
+This map shows wildfire risk levels across Southern California using color codes. Yellow areas have low fire danger, while orange means moderate risk. Red shows high wildfire risk, and dark red marks very high danger zones. The most extreme risk is shown in purple. Cities like Los Angeles, Santa Ana, and San Bernardino face moderate to high risk. Places such as Santa Clarita, Lancaster, and Victorville fall in very high risk zones. More inland regions like Barstow, Tehachapi, and the area near Indio face the most extreme danger, as shown in purple.
+
+
+SLIDE 8 - GAURAV
+Proposed Solutions:
+
+- Set up new fire stations close to high-risk (red zone) areas.
+
+- Create better and more modern evacuation routes.
+
+- Build barriers or trenches (moats) along highways to stop fires from spreading.
+
+- Improve evacuation methods by adding air and water transport options for emergencies.
+
+- Shift control from state authorities to a central (national) authority for better coordination and faster response.
+
+- Integration of AI, IOT in swifter evacuation 
+
+
+
+SLIDE 9 - CONCLUSION - MANASI
+GIS, AI, and IoT technologies play a big role in making wildfire evacuations safer and faster. AI helps predict how fires will spread, giving early warnings that lead to quicker evacuations and saving more lives. Smart routing systems reduce traffic jams by suggesting better escape paths in real time. Live footage and IoT sensors also help emergency teams respond faster and use their resources wisely. Thanks to these tools, evacuation delays can be cut by up to 50%, leading to safer outcomes during wildfires.
+
+
+
+SLIDE 10- CONCLUSION - SAKSHI
+In conclusion, we used a GIS-based method to carefully study scientific data about wildfires. This helped us understand how and where wildfires happen, what problems they create, and how they affect people and property. Based on these findings, we suggested some useful solutions to help reduce the damage caused by wildfires. These solutions aim to make evacuation faster, improve fire response systems, and better protect communities that are at high risk. Our goal through this study is to help save lives, reduce losses, and make wildfire management more effective in the future.
+
