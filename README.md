@@ -33,11 +33,15 @@ The core of this research employs **Remote Sensing (RS)** and **Geographic Infor
 
 Our findings shed light on areas highly susceptible to increased fire spread, including forest peripheries and roads. We identified challenges such as the long distances fire-eradicating hydrants sweep along coastal winds and an unequal distribution of fire stations, with more resources in less prone areas compared to highly vulnerable ones.
 
+<br>
+
 <p align="center">
   
-  <img src="readme-images/research-topic-poster/FA1 POSTER GROUP 6 PAGE 1.png"  alt="Wildfire Poster 1" />
+  <img src="readme-images/FA1 POSTER GROUP 6 PAGE 1.png"  alt="Wildfire Poster 1" />
+
+  <br>
   
-  <img src="readme-images/research-topic-poster/FA1 POSTER GROUP 6 PAGE 1.png"  alt="Wildfire Poster 2" />
+  <img src="readme-images/FA1 POSTER GROUP 6 PAGE 1.png"  alt="Wildfire Poster 2" />
   
 </p>
 
